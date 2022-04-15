@@ -1,0 +1,2 @@
+text,choice,number,y/n,number
+
